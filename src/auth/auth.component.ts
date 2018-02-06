@@ -5,8 +5,8 @@ import {MatIconRegistry, MatSnackBar} from '@angular/material';
 import {AngularFireAuth} from 'angularfire2/auth';
 import * as firebase from 'firebase/app';
 import {ResponseSnackbarComponent} from './response/response.snackbar.component';
-import {SignInProcess} from '../classes/SignInProcess';
-import {SignUpProcess} from '../classes/SignUpProcess';
+import {SignInProcess} from '../services/SignInProcess';
+import {SignUpProcess} from '../services/SignUpProcess';
 
 
 const EMAIL_REGEX = /^[a-zA-Z0-9.!#$%&’*+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9-]+)*$/;

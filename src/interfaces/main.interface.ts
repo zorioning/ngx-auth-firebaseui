@@ -9,6 +9,7 @@ export interface ISignUpProcess {
 }
 
 export interface ISignInProcess {
+    username: string,
     email: string;
     password: string;
     onSuccessEmitter;
@@ -17,9 +18,16 @@ export interface ISignInProcess {
     resetPassword();
 
     signIn();
+
+    signInWithExternalProvider(provider: any);
+
     signInWithGoogle();
+
     signInWithFaceBook();
+
     signInWithTwitter();
+
     signInWithGithub();
+
     signInWithPhoneNumber();
 }

@@ -13,8 +13,8 @@ import {IAuthFirebaseUIConfig} from './interfaces/config.interface';
 import {AngularFireModule, FirebaseAppConfig, FirebaseAppConfigToken, FirebaseAppName} from 'angularfire2';
 import {AngularFireAuthModule} from 'angularfire2/auth';
 import {ResponseSnackbarComponent} from './auth/response/response.snackbar.component';
-import {SignUpProcess} from './classes/SignUpProcess';
-import {SignInProcess} from './classes/SignInProcess';
+import {SignUpProcess} from './services/SignUpProcess';
+import {SignInProcess} from './services/SignInProcess';
 import {AuthProvidersComponent} from './auth/providers/auth.providers.component';
 
 // export * from './classes';

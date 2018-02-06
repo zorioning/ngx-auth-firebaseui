@@ -1,5 +1,5 @@
 import {Component} from '@angular/core';
-import {SignInProcess} from '../../classes/SignInProcess';
+import {SignInProcess} from '../../services/SignInProcess';
 
 @Component({
     selector: 'ngx-auth-firebaseui-providers',

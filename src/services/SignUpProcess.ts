@@ -1,4 +1,4 @@
-import {ISignUpProcess} from '../interfaces';
+import {ISignUpProcess} from '../interfaces/index';
 import {AngularFireAuth} from 'angularfire2/auth';
 import {Injectable} from '@angular/core';
 import {MatSnackBar} from '@angular/material';

@@ -1,6 +1,6 @@
 import {EventEmitter, Injectable} from '@angular/core';
 import {MatSnackBar} from '@angular/material';
-import {ISignInProcess} from '../interfaces';
+import {ISignInProcess} from '../interfaces/index';
 import {AngularFireAuth} from 'angularfire2/auth';
 import * as firebase from 'firebase/app';
 import GoogleAuthProvider = firebase.auth.GoogleAuthProvider;
@@ -11,6 +11,7 @@ import GithubAuthProvider = firebase.auth.GithubAuthProvider;
 @Injectable()
 export class SignInProcess implements ISignInProcess {
 
+    username: string;
     email: string;
     password: string;
     onSuccessEmitter: EventEmitter<any> = new EventEmitter<any>();
@@ -98,6 +99,10 @@ export class SignInProcess implements ISignInProcess {
 
     public signInWithPhoneNumber() {
         // todo: 3.1.18
+    }
+
+    signInWithExternalProvider(provider: any) {
+        // todo: 13.1.18
     }
 
 }

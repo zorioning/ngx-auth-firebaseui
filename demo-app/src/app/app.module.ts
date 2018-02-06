@@ -5,6 +5,7 @@ import {NgModule} from '@angular/core';
 import {AppComponent} from './app.component';
 import {YourFirebaseAppConfig} from '../firebase_app_config';
 import {NgxAuthFirebaseUIModule} from 'ngx-auth-firebaseui';
+// import {NgxAuthFirebaseUIModule} from '../../../src/index';
 import { FlexLayoutModule } from '@angular/flex-layout';
 import { MatButtonModule, MatCardModule, MatIconModule, MatToolbarModule } from '@angular/material';
 
