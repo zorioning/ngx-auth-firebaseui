@@ -217,7 +217,7 @@ angularfire2@5.0.0-rc.6.0
 MIT
 MIT
 
-ngx-auth-firebaseui@0.6.0
+ngx-auth-firebaseui@0.6.1
 MIT
 MIT License
 
