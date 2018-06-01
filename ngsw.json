@@ -8,15 +8,7 @@
       "updateMode": "prefetch",
       "urls": [
         "/favicon.ico",
-        "/index.html",
-        "/0.aa368022d1b93699c0db.chunk.js",
-        "/1.aad0ecec6a330bceb9a9.chunk.js",
-        "/2.def430240ffb36eaacac.chunk.js",
-        "/3.7b15510f7c1466b8200b.chunk.js",
-        "/inline.87ddd1fcffaabfb80cbc.bundle.js",
-        "/main.66328239d59eca3c57fb.bundle.js",
-        "/polyfills.c19bcee57db73594f281.bundle.js",
-        "/styles.95e7286d54eda0dea2e0.bundle.css"
+        "/index.html"
       ],
       "patterns": []
     },
@@ -29,9 +21,6 @@
         "/assets/facebook.svg",
         "/assets/github.svg",
         "/assets/google.svg",
-        "/assets/logo.svg",
-        "/assets/phone.svg",
-        "/assets/twitter.svg",
         "/assets/icons/github.svg",
         "/assets/images/icons/android-chrome-192x192.png",
         "/assets/images/icons/android-chrome-512x512.png",
@@ -139,6 +128,8 @@
         "/assets/lib/hljs/highlight/styles/xcode.css",
         "/assets/lib/hljs/highlight/styles/xt256.css",
         "/assets/lib/hljs/highlight/styles/zenburn.css",
+        "/assets/logo.svg",
+        "/assets/phone.svg",
         "/assets/tutorials/cd_angularapp.mp4",
         "/assets/tutorials/demo_desktop.png",
         "/assets/tutorials/demo_form_validation.mp4",
@@ -161,6 +152,7 @@
         "/assets/tutorials/npm_i_ngx_auth_firebaseui.gif",
         "/assets/tutorials/npm_i_ngx_auth_firebaseui.mp4",
         "/assets/tutorials/test.mp4",
+        "/assets/twitter.svg",
         "/assets/user/account-check.svg",
         "/assets/user/account-edit.svg",
         "/assets/user/account-off.svg",
@@ -172,25 +164,12 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/0.aa368022d1b93699c0db.chunk.js": "6e0c2f545f26cfdb01434a9954cff9accc750eaa",
     "/assets/.npmignore": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-    "/1.aad0ecec6a330bceb9a9.chunk.js": "0bc7dff8b91fc548ce1fc56af8b189f8e0dd0077",
     "/assets/facebook.svg": "bcfc78953fba7c1a7b8b5a96a57495763df6e646",
-    "/2.def430240ffb36eaacac.chunk.js": "8c41d2cb6af9581896ab0f9c6374706cd500eef4",
     "/assets/github.svg": "bdaec9dbb3190667ed9dd7a1f4bd40c9b164edb0",
-    "/3.7b15510f7c1466b8200b.chunk.js": "f5d992fb1931a17565d5bf94dc2c9db44192953d",
     "/assets/google.svg": "4524589b0dceefb6ae6389f36634441df69152d5",
-    "/inline.87ddd1fcffaabfb80cbc.bundle.js": "780a6e5963ab428d4d34bff84f9283289b05d2f9",
-    "/assets/logo.svg": "0b3394341548880427c38ed78beb990863a4e8cb",
-    "/main.66328239d59eca3c57fb.bundle.js": "bcab1a382ff18385b1b17760854bcada22e7aa29",
-    "/assets/phone.svg": "5216a6ea0d25313cafcbcfe5c79431cfa9ad5434",
-    "/polyfills.c19bcee57db73594f281.bundle.js": "bece9c4cabe137c2a674be7ce0b5bf3c9809ec9c",
-    "/assets/twitter.svg": "6b6e7c14478fe8dbac69ba7d65ca0c5effa05882",
-    "/styles.95e7286d54eda0dea2e0.bundle.css": "5213994fbb11255475a3263dacef64b7630a8d4d",
     "/assets/icons/github.svg": "ee58bd52af4b2c26ed6b172de6e10d748a7d9f66",
-    "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
     "/assets/images/icons/android-chrome-192x192.png": "7ebaf1bde6e44dff9a1da8ba64503ddd41beddf4",
-    "/index.html": "54f5ed016dccde3418c0f0bfe79a657fed2fe4a1",
     "/assets/images/icons/android-chrome-512x512.png": "4772bebbb2944a4b39f8bc1b5f1db28af79747dd",
     "/assets/images/icons/apple-touch-icon-114x114.png": "39467a28f0dc3bb9a1c6b430737e883ed43536c6",
     "/assets/images/icons/apple-touch-icon-120x120.png": "b3813b21a7fadfcfc21051430d1ecf6c42b3f896",
@@ -296,6 +275,8 @@
     "/assets/lib/hljs/highlight/styles/xcode.css": "65d775a7e11e238c91e0d3c7370547348c92d6b3",
     "/assets/lib/hljs/highlight/styles/xt256.css": "bbe28ec69177699cb6300d777598adf6323f7861",
     "/assets/lib/hljs/highlight/styles/zenburn.css": "933a3b196d01254dea5e6f48105ea15e210ae000",
+    "/assets/logo.svg": "0b3394341548880427c38ed78beb990863a4e8cb",
+    "/assets/phone.svg": "5216a6ea0d25313cafcbcfe5c79431cfa9ad5434",
     "/assets/tutorials/cd_angularapp.mp4": "20fbf2ed793cf2584a7aca53f45441e0f159d628",
     "/assets/tutorials/demo_desktop.png": "2490643b5d0b50f4143100f08c033149b4282bb6",
     "/assets/tutorials/demo_form_validation.mp4": "707c39bddd2313d36ce12fda30a8529917bb36b7",
@@ -318,10 +299,31 @@
     "/assets/tutorials/npm_i_ngx_auth_firebaseui.gif": "1aeeba7cd82ae6e5b15600c68119975314b53a04",
     "/assets/tutorials/npm_i_ngx_auth_firebaseui.mp4": "73afb7bf936bfefef88865350b222d4db92e38a3",
     "/assets/tutorials/test.mp4": "5529277525f5f352be3673d80e5bd8168d174a0f",
+    "/assets/twitter.svg": "6b6e7c14478fe8dbac69ba7d65ca0c5effa05882",
     "/assets/user/account-check.svg": "e874dd92b65fef587e787ba77083f87b0a4f537b",
     "/assets/user/account-edit.svg": "66306775ea986ccd809c03ab63d85882ef45e06c",
     "/assets/user/account-off.svg": "b6e09f860788889881a03e920798383f91f78476",
     "/assets/user/account-remove.svg": "58622df7121518c647e319504fe95315f7e02967",
-    "/assets/user/account.svg": "6065877d7ec71c57d65fd3bae2e7cfaac35d55d7"
-  }
+    "/assets/user/account.svg": "6065877d7ec71c57d65fd3bae2e7cfaac35d55d7",
+    "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "/index.html": "92d920e41df393cd03004372d548b9a7302a2237"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^\\/]*\\.[^\\/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^\\/]*__[^\\/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^\\/]*__[^\\/]*\\/.*$"
+    }
+  ]
 }
