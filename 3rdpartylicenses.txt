@@ -272,7 +272,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
-@angular/cdk@6.2.0
+@angular/flex-layout@6.0.0-beta.16
 MIT
 The MIT License
 
@@ -296,7 +296,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
-@angular/platform-browser@6.0.3
+@angular/platform-browser@6.0.5
 MIT
 MIT
 
@@ -358,11 +358,11 @@ If the Work includes a "NOTICE" text file as part of its distribution, then any 
 
 END OF TERMS AND CONDITIONS
 
-@angular/common@6.0.3
+@angular/common@6.0.5
 MIT
 MIT
 
-rxjs@6.2.0
+rxjs@6.2.1
 Apache-2.0
 Apache License
                          Version 2.0, January 2004
@@ -570,7 +570,7 @@ ngx-disqus@2.3.7
 MIT
 MIT
 
-ngx-auth-firebaseui@1.0.0
+ngx-auth-firebaseui@1.1.1
 MIT
 MIT License
 
@@ -594,7 +594,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-@ng-bootstrap/ng-bootstrap@2.0.0
+@ng-bootstrap/ng-bootstrap@2.1.1
 MIT
 The MIT License (MIT)
 
@@ -618,7 +618,11 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
-@angular/material@6.2.0
+@angular/router@6.0.5
+MIT
+MIT
+
+@angular/material@6.2.1
 MIT
 The MIT License
 
@@ -642,47 +646,47 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
-@angular/animations@6.0.3
+@angular/animations@6.0.5
 MIT
 MIT
+
+@angular/cdk@6.2.1
+MIT
+The MIT License
+
+Copyright (c) 2018 Google LLC.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
 
 ngx-window-token@1.0.0
 MIT
 MIT
 
-ngx-clipboard@11.1.0
+ngx-clipboard@11.1.1
 MIT
 MIT
 
-@angular/forms@6.0.3
+@angular/forms@6.0.5
 MIT
 MIT
 
-@angular/flex-layout@6.0.0-beta.15
-MIT
-The MIT License
-
-Copyright (c) 2018 Google LLC.
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE.
-
-@angular/core@6.0.3
+@angular/core@6.0.5
 MIT
 MIT
 
@@ -1162,9 +1166,5 @@ Apache License
    limitations under the License.
 
 angularfire2@5.0.0-rc.10
-MIT
-MIT
-
-@angular/router@6.0.3
 MIT
 MIT

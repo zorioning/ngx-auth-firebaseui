@@ -129,6 +129,14 @@
         "/assets/lib/hljs/highlight/styles/xt256.css",
         "/assets/lib/hljs/highlight/styles/zenburn.css",
         "/assets/logo.svg",
+        "/assets/mdi/facebook.svg",
+        "/assets/mdi/facebook2.svg",
+        "/assets/mdi/github-circle.svg",
+        "/assets/mdi/github-circle1.svg",
+        "/assets/mdi/google.svg",
+        "/assets/mdi/google2.svg",
+        "/assets/mdi/twitter.svg",
+        "/assets/mdi/twitter1.svg",
         "/assets/phone.svg",
         "/assets/tutorials/cd_angularapp.mp4",
         "/assets/tutorials/demo_desktop.png",
@@ -276,6 +284,14 @@
     "/assets/lib/hljs/highlight/styles/xt256.css": "bbe28ec69177699cb6300d777598adf6323f7861",
     "/assets/lib/hljs/highlight/styles/zenburn.css": "933a3b196d01254dea5e6f48105ea15e210ae000",
     "/assets/logo.svg": "0b3394341548880427c38ed78beb990863a4e8cb",
+    "/assets/mdi/facebook.svg": "ee2d00faa6c875a9faf47876cdee874c3dc427e1",
+    "/assets/mdi/facebook2.svg": "ee2d00faa6c875a9faf47876cdee874c3dc427e1",
+    "/assets/mdi/github-circle.svg": "19fbf418dc98ac6b0727a949595be27cdfce0780",
+    "/assets/mdi/github-circle1.svg": "19fbf418dc98ac6b0727a949595be27cdfce0780",
+    "/assets/mdi/google.svg": "33733badda8c65e8c4d8fc3f94adbc04b9afcbfb",
+    "/assets/mdi/google2.svg": "33733badda8c65e8c4d8fc3f94adbc04b9afcbfb",
+    "/assets/mdi/twitter.svg": "c9e058c45f1a04929f098febc9d93d172ff5f910",
+    "/assets/mdi/twitter1.svg": "c9e058c45f1a04929f098febc9d93d172ff5f910",
     "/assets/phone.svg": "5216a6ea0d25313cafcbcfe5c79431cfa9ad5434",
     "/assets/tutorials/cd_angularapp.mp4": "20fbf2ed793cf2584a7aca53f45441e0f159d628",
     "/assets/tutorials/demo_desktop.png": "2490643b5d0b50f4143100f08c033149b4282bb6",
@@ -306,7 +322,7 @@
     "/assets/user/account-remove.svg": "58622df7121518c647e319504fe95315f7e02967",
     "/assets/user/account.svg": "6065877d7ec71c57d65fd3bae2e7cfaac35d55d7",
     "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/index.html": "92d920e41df393cd03004372d548b9a7302a2237"
+    "/index.html": "bb6605ede49e5a86c98f4bc3e179401c0aa0087c"
   },
   "navigationUrls": [
     {
